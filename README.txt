@@ -1,0 +1,1 @@
+Code sample for Code Magazine article 'Build an HTML5 Offline Application with Application Cache, Web Storage and ASP.NET MVC' - http://www.code-magazine.com/Article.aspx?quickid=1112051
